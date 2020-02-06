@@ -16,6 +16,6 @@ system.out.println("enter second number");
 b=sc.nextInt();
 test obj = new test();
 obj.add(a,b);
-system.out.println("sum=" + sum);
+//system.out.println("sum=" + sum);
 }
 }
